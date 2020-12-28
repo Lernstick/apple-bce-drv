@@ -1,0 +1,10 @@
+Source: apple-bce-drv
+Section: kernel
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@gmx.net>
+Build-Depends: debhelper (>= 9), dkms
+
+Package: apple-bce-drv-dkms
+Architecture: all
+Depends: ${misc:Depends}
+Description: DKMS source for apple-bce-drv

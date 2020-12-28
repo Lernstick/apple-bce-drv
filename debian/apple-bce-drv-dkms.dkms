@@ -1,0 +1,8 @@
+PACKAGE_NAME="apple-bce"
+PACKAGE_VERSION="#MODULE_VERSION#"
+CLEAN="make clean"
+MAKE="make"
+BUILT_MODULE_NAME[0]="apple-bce"
+DEST_MODULE_LOCATION[0]="/updates"
+AUTOINSTALL="yes"
+REMAKE_INITRD="yes"
