@@ -1,3 +1,9 @@
+apple-bce-drv (0.1~git20211021-1) lernstick-11; urgency=medium
+
+  * [36290f] merged upstream patch
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 21 Oct 2021 20:53:47 +0200
+
 apple-bce-drv (0.1~git20200131-1) lernstick-10; urgency=medium
 
   * Initial release.
